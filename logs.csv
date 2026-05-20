@@ -1,0 +1,3 @@
+timestamp,client_ip,level,category,service,component,message
+2026-03-08 16:47:03,127.0.0.1,hii,bank,payment,mobile,success
+2026-03-20 15:00:06,127.0.0.1,Info,office,employee ragistration,laptop,welcome to new employee
